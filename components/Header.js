@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 function Header({ rol, setRol }) {
   return (
     <header className="header">
-      <h1>Plan - Agencia de Viajes</h1>
+      <h1>El comelón</h1>
       <div className="nav">
       <nav>
         <Link to="/"> Reservar </Link>
